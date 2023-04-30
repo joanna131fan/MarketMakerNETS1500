@@ -5,9 +5,9 @@ To run the simulation, simply open the Colab and click on ‘Run All’ under th
 You are free to change the constants in cell 2 as well as the strategy ranges of the computers in the strategy class section.
 
 GAME BREAKDOWN:
+![image1](Screen Shot 2023-04-30 at 10.48.23 AM.png)
 
-
-
+![image2](Screen Shot 2023-04-30 at 10.48.31 AM.png)
 
 From the perspective of the market maker, the objective is to provide liquidity to the market by continuously offering quotes to buy and sell the asset at prices that are close to the fair value. In this game, the market maker is asked to make a market on a number that is equal to their secret number plus the sum of all five opponents' secret numbers.
 
