@@ -1,0 +1,11 @@
+This game of market making can be analyzed through the lens of game theory and matching markets.
+
+From the perspective of game theory, the market maker is playing a non-cooperative game against her opponents, where each player is trying to maximize their own profit by buying or selling stocks based on their own secret number and the current market price. The market maker's goal is to set a price that balances supply and demand and maximizes her own profit, while also taking into account the potential strategies of her opponents.
+
+The opponents in the game are also using game theory to decide when to buy or sell stocks. Each player has their own secret number, which determines their willingness to buy or sell at different price levels. The players are incentivized to hide their secret number and exploit the market maker's lack of information to their advantage.
+
+Matching markets also come into play in this game. The market maker is matching buyers and sellers by setting the market price and facilitating trades. The market maker's ability to set the market price depends on her own inventory and the supply and demand of the players. In this game, the market maker's inventory is limited, so she must balance her own trading activities with the need to set a fair price that satisfies the demand of the players.
+
+Overall, this game demonstrates how game theory and matching markets can be applied in a financial context, where participants are trying to maximize their own profits while navigating the complex interactions of the market.
+
+As a 1-person team, I completed everything here myself.
